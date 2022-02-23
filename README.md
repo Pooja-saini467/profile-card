@@ -15,7 +15,7 @@
 - It's is simple card project
 
 ## screenshot
-<img src="https://github.com/Pooja-saini467/ecommerce-page/blob/main/design/desktop-design.jpg?raw=true">
+<img src="https://github.com/Pooja-saini467/profile-card/blob/main/design/desktop-design.jpg?raw=true">
 
 
 
